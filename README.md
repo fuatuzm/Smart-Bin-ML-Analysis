@@ -38,6 +38,13 @@ Projede farklı makine öğrenmesi algoritmaları denenmiş ve başarı oranlar�
 3.  **Logistic Regression**
 4.  **Decision Tree**
 
+##  Sonuc 
+
+Bu projede, akıllı atık yönetimi sürecini gelistirmek amacıyla features üzerinden makine öğrenmesi tabanlı bir tahmin sistemi geliştirilmiştir. Yapılan analizler sonucunda elde edilen temel çıkarımlar şunlardır:
+
+1.  En Başarılı Model: Karmaşık verilerde genelde daha kararlı sonuçlar veren Random Forest algoritması, %92.4 doğruluk oranı ile bu problem için en uygun model oldu.
+2.  Veri Odaklı Karar: Feature analizi, bir çöpün boşaltılması gerekip gerekmediğine karar verirken en kritik faktörün beklendiği üzere FL_B olduğunu, ancak diğer faktörlerin de modelin hassasiyetini artırdığını göstermiştir.
+
 Modellerin doğruluk oranları:
 
 ![Model Sonuçları](atık_tahmin/images/model_sonuc.png)

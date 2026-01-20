@@ -14,12 +14,12 @@ Bu proje, akıllı çöp kutularınndan elde edilen sensör verilerini kulanarak
 ##  features
 Projede kullanılan veri setindeki hedef değişken ve model eğitiminde kullanılan özellikler şunlardır:
 
-* **hedef değisken :** `Class`
+* **hedef değisken :** Class
 * **Features:**
-    * `FL_B` : Boşaltma işlemi öncesindeki doluluk oranı.
-    * `VS`: Sensör/Araç verisi.
-    * `Container Type`: Konteynerin tipi
-    * `Recyclable fraction`: Atığın geri dönüştürülebilirlik durumu 
+    * FL_B : Boşaltma işlemi öncesindeki doluluk oranı.
+    * VS: Sensör/Araç verisi.
+    * Container Type: Konteynerin tipi
+    * Recyclable fraction: Atığın geri dönüştürülebilirlik durumu 
 
 ---
 

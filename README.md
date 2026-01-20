@@ -24,7 +24,7 @@ Projede kullanılan veri setindeki hedef değişken ve model eğitiminde kullan�
 ---
 
 ## Pivot tablo
-Konteyner tiplerine ve atık türlerine göre ortalama doluluk oranlarını (`FL_B`) incelemek için pivot tablosu oluşturulsmuştur. Hangi konteynerin hangi atık türünde daha hızlı dolduğu bu analizle gözlemlenmişitir.
+Konteyner tiplerine ve atık türlerine göre ortalama doluluk oranlarını (FL_B) incelemek için pivot tablosu oluşturulsmuştur. Hangi konteynerin hangi atık türünde daha hızlı dolduğu bu analizle gözlemlenmişitir.
 
 ![Pivot tabol](atık_tahmin/images/pivot_tablo.png)
 
@@ -55,7 +55,7 @@ Bu projede, akıllı atık yönetimi sürecini gelistirmek amacıyla features ü
 ##  Grafikler
 
 ### 1. Özellik önem seviyleri
-Random Forest modeli kullanılarak, kararı en çok etkileyen faktörler belirlenmiştir. Beklendiği üzere `FL_B` en belirleyici faktördür.
+Random Forest modeli kullanılarak, kararı en çok etkileyen faktörler belirlenmiştir. Beklendiği üzere FL_B en belirleyici faktördür.
 
 ![çzellikkiyasla](atık_tahmin/images/ozellik_grafik.png)
 

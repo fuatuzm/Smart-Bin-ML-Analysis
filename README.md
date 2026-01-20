@@ -49,11 +49,11 @@ Modellerin doğruluk oranları:
 ### 1. Özellik önem seviyleri
 Random Forest modeli kullanılarak, kararı en çok etkileyen faktörler belirlenmiştir. Beklendiği üzere `FL_B` en belirleyici faktördür.
 
-![çzellikkiyasla](atık_tahmini/images/ozellik_grafik.png)
+![çzellikkiyasla](atık_tahmin/images/ozellik_grafik.png)
 
 ### 2. Model Başarı Karşılaştırıması
 Eğitilen 4 farklı modelin başarı oranlarının karşılaştırmalı grafiği aşağıdadır. Random Forest modeli, veri setindeki karmaşıklığı en iyi çözümleyen algoritma oldu.
 
-![Modelkarsılastırma](atık_tahmini/images/karsilastirma_grafik.png)
+![Modelkarsılastırma](atık_tahmin/images/karsilastirma_grafik.png)
 
 ---
